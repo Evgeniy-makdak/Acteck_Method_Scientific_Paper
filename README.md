@@ -1,10 +1,12 @@
 # Научная статья — метод Acteck QA5
 
-**Автор:** Evgeniy Acteck (Актек Евгений)
+**Автор:** Волков Евгений (Evgeniy Volkov)
 
 В этом репозитории находится **только готовый PDF** научной статьи:
 
 **[Acteck_Method_Scientific_Paper.pdf](Acteck_Method_Scientific_Paper.pdf)**
+
+*(Название метода в тексте статьи — Acteck QA5; это не замена фамилии автора.)*
 
 ---
 
